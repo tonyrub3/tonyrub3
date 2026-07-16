@@ -8,9 +8,11 @@
 
 ## 👨‍💻 About Me
 
-* **Current Status**: M.Sc. Student at **Sapienza University of Rome**, Department of Computer, Control and Management Engineering (DIAG) "Antonio Ruberti".
-* **Background**: Completed a Bachelor's Degree in Computer Science at the **University of Parma**.
-* **Interests**: Distributed Systems, Event-Driven Architectures, Cloud Engineering, Machine Learning, and Natural Language Processing.
+* **🎓 Education**: 
+  * Currently pursuing a **Master of Science (M.Sc.) in Engineering in Computer Science and Artificial Intelligence** at **Sapienza University of Rome** (DIAG "Antonio Ruberti").
+  * Completed **Bachelor of Science (B.Sc.) in Computer Science** at the **University of Parma** (2024).
+* **🎯 Thesis Internship Search**: I am actively looking for a Master's thesis internship (**Tirocinio per la scrittura della tesi**) focusing on Software Engineering, Cloud Systems, Distributed Architectures, or AI-driven workflows.
+* **Focus**: I build full-stack systems and AI automation for real business workflows, with hands-on experience in backend architectures, data modeling, database migrations, APIs, webhooks, and automated test-driven development.
 
 ---
 
@@ -18,19 +20,24 @@
 
 | 💻 Languages | 🧱 Frameworks & Libraries | ☁️ Cloud & DevOps | 🛠️ Tools |
 | :--- | :--- | :--- | :--- |
-| **Java** • **C** • **Python** • **C#**<br>**Rust** • **Go** • **Assembly**<br>**JavaScript** • **TypeScript**<br>**HTML5** • **CSS3** • **Shell** • **SQL** | **React** • **Node.js** • **GraphQL**<br>**Spring Boot** • **Flask** • **Next.js**<br>**.NET 8 / ASP.NET Core**<br>**SQLAlchemy** • **PyTorch** • **TensorFlow**<br>**Scikit-Learn** • **Sentence-Transformers**<br>**LangChain** • **OpenAI API** | **Docker** • **Docker Compose**<br>**Kubernetes** • **Helm**<br>**GitHub Actions** • **GitLab CI/CD**<br>**<u>Liqo</u>** • **Apache Kafka**<br>**Redis** • **Redis Queue (RQ)** | **Git** • **Postman** • **VSCode**<br>**WordPress** • **Rancher** • **Figma**<br>**Adminer** • **Swagger / OpenAPI**<br>**Jupyter Notebook** |
+| **Java** • **C** • **Python** • **C++**<br>**C#** • **Rust** • **Go** • **Assembly**<br>**JavaScript** • **TypeScript**<br>**HTML5** • **CSS3** • **Shell** • **SQL** | **React** • **Node.js** • **GraphQL**<br>**Spring Boot** • **Flask** • **Next.js**<br>**.NET 8 / ASP.NET Core**<br>**SQLAlchemy** • **PyTorch** • **TensorFlow**<br>**Scikit-Learn** • **Sentence-Transformers**<br>**LangChain** • **OpenAI API** • **Alembic** | **Docker** • **Docker Compose**<br>**Kubernetes** • **Helm**<br>**GitHub Actions** • **GitLab CI/CD**<br>**<u>Liqo</u>** • **Apache Kafka**<br>**Redis** • **Redis Queue (RQ)** | **Git** • **Postman** • **VSCode**<br>**WordPress** • **Rancher** • **Figma**<br>**Adminer** • **Swagger / OpenAPI**<br>**Jupyter Notebook** |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Research & Featured Projects
 
-### 🤖 [WhatsApp AI Assistant (Multi-Tenant SaaS)](https://github.com/tonyrub3/bot_whatsapp)
-*An enterprise-grade B2B platform automating customer interactions via WhatsApp.*
-* **Stack**: Python/Flask, Next.js, PostgreSQL, Redis Queue (RQ), SSE.
-* **Key Features**: Multi-tenant database design, custom task-based model resolver (`llm_resolver`) supporting local LLMs (Ollama Llama 3.1) alongside OpenAI, local vector RAG pipelines (`BAAI/bge-m3` embedder), and PII masking filters.
+### 🤖 [NAO Robot Cognitive Rehabilitation & Emotion AI (Thesis Research)](https://www.antoniorubino.me)
+*Integrated and optimized an interactive cognitive rehabilitation platform on a real humanoid NAO robot.*
+* **Stack**: Python, C++ (`nao_interface`), SSH/SFTP data exchange, Speech-to-Text & Text-to-Speech API tuning, Emotion Recognition AI.
+* **Key Features**: Designed the bridging communication layer between Python and C++ modules, hardened SSH/SFTP transmission pipelines for reliable data synchronization, and optimized audio-to-text / text-to-speech processing speed, resulting in a smoother, more usable real-time interaction workflow.
+
+### 💬 [WhatsApp AI Assistant – Multi-Tenant SaaS Platform](https://github.com/tonyrub3/bot_whatsapp)
+*An enterprise-grade B2B platform deploying autonomous knowledge-backed AI agents onto WhatsApp.*
+* **Stack**: Python/Flask, Next.js, PostgreSQL, Redis Queue (RQ), Server-Sent Events (SSE).
+* **Key Features**: Custom task-based model resolver (`llm_resolver`) supporting local models (Ollama Llama 3.1) alongside OpenAI, local vector database search (`kg_chunks` and `kg_documents` tables), in-process embeddings (BAAI/bge-m3), and automatic PII masking gates.
 
 ### 💳 [Event-Driven Microservices Platform](https://github.com/tonyrub3/progettoMicroservizi)
-*A high-performance backend system managing order, payment, and inventory workflows.*
+*A high-performance backend managing order, payment, and inventory workflows.*
 * **Stack**: .NET 8, C#, PostgreSQL, Apache Kafka, Docker Compose.
 * **Key Features**: Database-per-service isolation, transactional outbox pattern to guarantee event deliveries without distributed locks, and centralized exception handling boundaries.
 
@@ -42,12 +49,7 @@
 ### 🔍 [Methods in NLP – Two-Stage Semantic Search Engine](https://github.com/tonyrub3/MNLP-Homeworks)
 *A retrieve-and-rank search pipeline for zero-shot query retrieval.*
 * **Stack**: Python, PyTorch, Transformers, Sentence-Transformers, BGE Reranker.
-* **Key Features**: Two-stage retrieval ($k=30$), custom trainable Attention Pooling layer, and Multiple Negatives Ranking Loss (MNRL) with teacher-student hard negative mining on NVIDIA RTX 4090 GPUs.
-
-### 📊 [Machine Learning University Assignments](https://github.com/tonyrub3/ML-University-Projects)
-*A set of supervised classification, regression, clustering, and dimensionality reduction projects.*
-* **Stack**: Jupyter, Scikit-Learn, TensorFlow, PCA, dense Autoencoders.
-* **Key Features**: GTZAN data leakage mitigation using `StratifiedGroupKFold` split on `song_id`, PCA vs. Autoencoder comparative performance analysis.
+* **Key Features**: Two-stage retrieval ($k=30$), custom trainable Attention Pooling layer, and Multiple Negatives Ranking Loss (MNRL) with teacher-student hard negative mining.
 
 ---
 
@@ -62,8 +64,8 @@
 
 ## 🤝 Let's Connect!
 
-* **GitHub**: [@tonyrub3](https://github.com/tonyrub3)
-* **LinkedIn**: [Your LinkedIn Profile URL]
+* **Website**: [antoniorubino.me](https://www.antoniorubino.me)
+* **LinkedIn**: [linkedin.com/in/antonio-rubino-758040236/](https://www.linkedin.com/in/antonio-rubino-758040236/)
 * **Email**: [antonio.rubino03@virgilio.it](mailto:antonio.rubino03@virgilio.it)
 
 ---
