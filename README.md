@@ -1,30 +1,24 @@
 # Hi there, I'm Antonio Rubino! 👋
 
-<!-- Tagline / Subtitle -->
-### **Full-Stack Developer & AI Systems Engineer**
-*Passionate about building scalable distributed systems, event-driven architectures, and hybrid AI/RAG solutions.*
+<!-- Role / Status -->
+### **M.Sc. Student in Engineering in Computer Science & AI at Sapienza University of Rome**
+*B.Sc. Graduate in Computer Science (Informatica) from the University of Parma.*
 
 ---
 
 ## 👨‍💻 About Me
 
-* **Education**: 
-  * Currently pursuing a **Master of Science (M.Sc.) in Engineering in Computer Science / Artificial Intelligence** at **Sapienza University of Rome** (DIAG "Antonio Ruberti").
-  * Completed **Bachelor of Science (B.Sc.) in Computer Science** at the **University of Parma**.
-* **Focus Areas**: Software Engineering, Multi-Tenant SaaS Systems, Distributed Systems, Retrieval-Augmented Generation (RAG), and Natural Language Processing (NLP).
-* **Philosophy**: Designing clean, scalable, and secure architectures with a strong focus on system performance, transaction integrity, and robust IT governance.
+* **Current Status**: M.Sc. Student at **Sapienza University of Rome**, Department of Computer, Control and Management Engineering (DIAG) "Antonio Ruberti".
+* **Background**: Completed a Bachelor's Degree in Computer Science at the **University of Parma**.
+* **Interests**: Distributed Systems, Event-Driven Architectures, Cloud Engineering, Machine Learning, and Natural Language Processing.
 
 ---
 
-## 🛠️ Skills & Technologies
+## ⚙️ Tech Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `Python` • `C#` • `TypeScript` • `JavaScript` • `SQL` • `C` |
-| **Backend & Databases** | `.NET 8` • `ASP.NET Core` • `Flask` • `PostgreSQL` • `SQLite` • `SQLAlchemy` |
-| **AI, RAG & NLP** | `PyTorch` • `TensorFlow` • `Scikit-Learn` • `Sentence-Transformers` • `Ollama` • `OpenAI API` |
-| **DevOps & Messaging** | `Docker` • `Docker Compose` • `Apache Kafka` • `Redis` • `Redis Queue (RQ)` • `Git` • `CI/CD` |
-| **UI/UX & Design** | `Figma` (Component libraries, user journey mapping, interaction prototyping) |
+| 💻 Languages | 🧱 Frameworks & Libraries | ☁️ Cloud & DevOps | 🛠️ Tools |
+| :--- | :--- | :--- | :--- |
+| **Java** • **C** • **Python** • **C#**<br>**Rust** • **Go** • **Assembly**<br>**JavaScript** • **TypeScript**<br>**HTML5** • **CSS3** • **Shell** • **SQL** | **React** • **Node.js** • **GraphQL**<br>**Spring Boot** • **Flask** • **Next.js**<br>**.NET 8 / ASP.NET Core**<br>**SQLAlchemy** • **PyTorch** • **TensorFlow**<br>**Scikit-Learn** • **Sentence-Transformers**<br>**LangChain** • **OpenAI API** | **Docker** • **Docker Compose**<br>**Kubernetes** • **Helm**<br>**GitHub Actions** • **GitLab CI/CD**<br>**<u>Liqo</u>** • **Apache Kafka**<br>**Redis** • **Redis Queue (RQ)** | **Git** • **Postman** • **VSCode**<br>**WordPress** • **Rancher** • **Figma**<br>**Adminer** • **Swagger / OpenAPI**<br>**Jupyter Notebook** |
 
 ---
 
@@ -69,7 +63,7 @@
 ## 🤝 Let's Connect!
 
 * **GitHub**: [@tonyrub3](https://github.com/tonyrub3)
-* **LinkedIn**: [Your LinkedIn Profile URL](https://linkedin.com)
+* **LinkedIn**: [Your LinkedIn Profile URL]
 * **Email**: [antonio.rubino03@virgilio.it](mailto:antonio.rubino03@virgilio.it)
 
 ---
