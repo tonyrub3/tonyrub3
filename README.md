@@ -57,10 +57,10 @@
 <br>
 
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tonyrub3&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Antonio's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats-sigma-five.vercel.app/api?username=tonyrub3&theme=transparent&show_icons=true&rank_icon=github&locale=en" alt="Antonio's GitHub Stats" />
   <img width=390 src="https://streak-stats.demolab.com/?user=tonyrub3&theme=transparent&border_radius=10&locale=en" alt="Antonio's Streak Stats" />
   <br>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyrub3&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Antonio's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tonyrub3&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Antonio's Most Used Languages" />
 </div>
 
 ---
@@ -78,5 +78,5 @@
 ---
 
 <div align="center"> 
-  <img src="https://profile-counter.glitch.me/tonyrub3/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=tonyrub3&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
