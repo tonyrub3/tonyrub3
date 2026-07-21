@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/antonio-rubino-758040236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:antonio.rubino03@virgilio.it">
+  <a href="mailto:antonio.rubino03@icloud.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </p>
